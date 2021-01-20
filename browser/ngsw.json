@@ -1,0 +1,153 @@
+{
+  "configVersion": 1,
+  "timestamp": 1611169085883,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/10-es2015.164f609da66999e2411b.js",
+        "/10-es5.164f609da66999e2411b.js",
+        "/5-es2015.ed3ee750044f013eb4ef.js",
+        "/5-es5.ed3ee750044f013eb4ef.js",
+        "/6-es2015.5bce17f96300f43e687c.js",
+        "/6-es5.5bce17f96300f43e687c.js",
+        "/7-es2015.4c563dded5b193854962.js",
+        "/7-es5.4c563dded5b193854962.js",
+        "/8-es2015.de53b6767da86e2e86bf.js",
+        "/8-es5.de53b6767da86e2e86bf.js",
+        "/9-es2015.5ba412460c93dd3c41fb.js",
+        "/9-es5.5ba412460c93dd3c41fb.js",
+        "/index.html",
+        "/main-es2015.d5dbfd58ec257d0cc3aa.js",
+        "/main-es5.d5dbfd58ec257d0cc3aa.js",
+        "/manifest.json",
+        "/polyfills-es2015.520de77e971b7b22fc23.js",
+        "/polyfills-es5.df44112bc82b35077948.js",
+        "/runtime-es2015.bfe9f7dec2a09faff34d.js",
+        "/runtime-es5.bfe9f7dec2a09faff34d.js",
+        "/styles.db31ff59742f008cb4f8.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/assets/appicons/icon-128x128.png",
+        "/assets/appicons/icon-144x144.png",
+        "/assets/appicons/icon-152x152.png",
+        "/assets/appicons/icon-192x192.png",
+        "/assets/appicons/icon-384x384.png",
+        "/assets/appicons/icon-512x512.png",
+        "/assets/appicons/icon-72x72.png",
+        "/assets/appicons/icon-96x96.png",
+        "/assets/daff-branding/daff-flower.svg",
+        "/assets/magento-logo.svg",
+        "/assets/pwa-install-add.svg",
+        "/assets/pwa-install-home.svg",
+        "/assets/pwa-install-info.svg",
+        "/assets/shopify-logo.svg",
+        "/assets/why-pwa/book-icon.svg",
+        "/assets/why-pwa/engaging-icon.svg",
+        "/assets/why-pwa/fast-icon.svg",
+        "/assets/why-pwa/integrated-icon.svg",
+        "/assets/why-pwa/lancome-logo.svg",
+        "/assets/why-pwa/pwa-illustration.svg",
+        "/assets/why-pwa/reliable-icon.svg",
+        "/assets/why-pwa/starbucks-logo.svg",
+        "/assets/why-pwa/stat-icon.svg",
+        "/assets/why-pwa/uber-logo.svg"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "externals",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [],
+      "patterns": [
+        "https:\\/\\/use\\.fontawesome\\.com\\/.*",
+        "https:\\/\\/use\\.typekit\\.net\\/.*"
+      ]
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/10-es2015.164f609da66999e2411b.js": "20d256af46e2f93d7556eee888ef9845e1fda14f",
+    "/10-es5.164f609da66999e2411b.js": "7e9f691503556a84ea9d096af6b8360c5fb5f5fc",
+    "/5-es2015.ed3ee750044f013eb4ef.js": "85c43fb63cda29a00977f11ca76d0d4688e5fe23",
+    "/5-es5.ed3ee750044f013eb4ef.js": "fd2dd83a59c5e9443c541a8b27c67f5a01d6df62",
+    "/6-es2015.5bce17f96300f43e687c.js": "d83731ed1691692baca816715b766e8d3de074d5",
+    "/6-es5.5bce17f96300f43e687c.js": "1878360fc32fb82d37924fde4c8f3e68e24fffd5",
+    "/7-es2015.4c563dded5b193854962.js": "67d21642eebe95fef16e1dc8d346832705a88704",
+    "/7-es5.4c563dded5b193854962.js": "592d941c65b91e1f778bc00f609c5e805b406b52",
+    "/8-es2015.de53b6767da86e2e86bf.js": "05d4627354f11dc0e44a20d28ad15e8dba18afde",
+    "/8-es5.de53b6767da86e2e86bf.js": "811e2f35def8d429a70f0f8e807dab9f5f5c174e",
+    "/9-es2015.5ba412460c93dd3c41fb.js": "c41520bc76199affc2891263701f17d0fb06daa2",
+    "/9-es5.5ba412460c93dd3c41fb.js": "5eff68a7365fdca7e9f2b7a71c28cde5a10973d5",
+    "/assets/appicons/icon-128x128.png": "298130d2080b65a01bbafb2a16fb2f461a8d9b86",
+    "/assets/appicons/icon-144x144.png": "844a834f85d3ac9254a4c63ac39d411fd493873c",
+    "/assets/appicons/icon-152x152.png": "fe4f8e88471126d7af185c6d4f23d2927e8b2271",
+    "/assets/appicons/icon-192x192.png": "116797ecb4c434193e5f6cafde2a4ae1fef04987",
+    "/assets/appicons/icon-384x384.png": "2cb78159b147843cd409db4968d2afa3fb19bc68",
+    "/assets/appicons/icon-512x512.png": "e75ce1c76faadce8e0c7148da7878a65f2cd3114",
+    "/assets/appicons/icon-72x72.png": "8231b57a27b4e228399b94b0766d240fab4f96f0",
+    "/assets/appicons/icon-96x96.png": "b26336eb7f5cd3e670fa51e3d8306a1788d815cd",
+    "/assets/daff-branding/daff-flower.svg": "140bb6e012427075e874e4101e8465e80534aa09",
+    "/assets/magento-logo.svg": "b948eed7efcd46df1211ccab4619efa6c2b26027",
+    "/assets/pwa-install-add.svg": "667a26e11ffff0d1a81d3c373d998b7eac72161b",
+    "/assets/pwa-install-home.svg": "91622ad09d07ad842f7d7599fda5072284086018",
+    "/assets/pwa-install-info.svg": "4d44593544f4faa4040989a33c841b0f9cd0e44e",
+    "/assets/shopify-logo.svg": "29c358e4d1059fdc480567a54f90a2bdbe40dc62",
+    "/assets/why-pwa/book-icon.svg": "1f17030c743f6fbd7da376d47a5d5a66f0759489",
+    "/assets/why-pwa/engaging-icon.svg": "11bc031d4dbad027394ad1216a3c71e5932a01f3",
+    "/assets/why-pwa/fast-icon.svg": "2a433c8029f0746e30ba2c704f6a3bf0d89beeb0",
+    "/assets/why-pwa/integrated-icon.svg": "0d048fb65dbcb04cd8d985eca2e15cc631c2a28a",
+    "/assets/why-pwa/lancome-logo.svg": "09cee03054ee94afd001ad480a110ef5e978f1c2",
+    "/assets/why-pwa/pwa-illustration.svg": "a4adfce1887bea8d9e0a9a0e500fc08543dc7b9b",
+    "/assets/why-pwa/reliable-icon.svg": "4c037252763444235cf10bf31d94df8fa9a548e5",
+    "/assets/why-pwa/starbucks-logo.svg": "678bc742739e26fcc8e48adfe4dbfb498c10dc3b",
+    "/assets/why-pwa/stat-icon.svg": "60cca43d2e2bb47c5a855fd894f0329851ed659d",
+    "/assets/why-pwa/uber-logo.svg": "5a3e9be364f1c3c84e39de1393817cbf8f334e19",
+    "/index.html": "69a5f2c0f37b2977143b37bd088ca6288d70998a",
+    "/main-es2015.d5dbfd58ec257d0cc3aa.js": "f41e366ac19535391d0833c3c2cc577e601b29a9",
+    "/main-es5.d5dbfd58ec257d0cc3aa.js": "0082013e7ef16d6e097139c896b80cc811d48fbb",
+    "/manifest.json": "1bbcd685866d8f001cf6cd870fc7ac3c226c59c4",
+    "/polyfills-es2015.520de77e971b7b22fc23.js": "77e753afdcd707f8881af49f2c1eb279c08d002e",
+    "/polyfills-es5.df44112bc82b35077948.js": "1e7414c31053951cb66a95b55e73b3384a438e4d",
+    "/runtime-es2015.bfe9f7dec2a09faff34d.js": "08b4f6d4f46a8e1bf17343467498f591ced730ea",
+    "/runtime-es5.bfe9f7dec2a09faff34d.js": "3422c6a8075f24a9155ed37b3699555f7b7bb1b7",
+    "/styles.db31ff59742f008cb4f8.css": "ccaa0a4a4fec6bfaac8b7b722655800686cf3e67"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
